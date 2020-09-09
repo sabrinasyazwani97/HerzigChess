@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Controller
+comment1.params=theGUI\ theBoard\ rab1\ rab2\ rab3\ rs1\ rs2\ rc1\ rc2\ rh1\ gab1\ gab2\ gab3\ gs1\ gs2\ gc1\ gc2\ gh1
+comment1.target=Controller(GUI,\ Board,\ Piece,\ Piece,\ Piece,\ Piece,\ Piece,\ Piece,\ Piece,\ Piece,\ Piece,\ Piece,\ Piece,\ Piece,\ Piece,\ Piece,\ Piece,\ Piece)
+comment2.params=board\ availableMovements
+comment2.target=void\ showMove(javax.swing.JButton[][],\ int[][])
+comment3.params=
+comment3.target=void\ restoreShowMove()
+comment4.params=board\ boardArray
+comment4.target=void\ assignImage(javax.swing.JButton[][],\ java.lang.String[][])
+comment5.params=board\ boardArray
+comment5.target=void\ assignImage_Flip(javax.swing.JButton[][],\ java.lang.String[][])
+comment6.params=board
+comment6.target=void\ resetImage(javax.swing.JButton[][])
+comment7.params=winner
+comment7.target=void\ checkWinner(int)
+numComments=8

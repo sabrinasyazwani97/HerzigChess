@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=PieceFactory
+comment1.params=type\ x\ y\ direction
+comment1.target=Piece\ getPiece(java.lang.String,\ int,\ int,\ java.lang.String)
+numComments=2

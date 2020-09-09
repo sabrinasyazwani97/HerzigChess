@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Piece
+comment1.params=positionX\ positionY
+comment1.target=Piece(int,\ int)
+comment10.params=
+comment10.target=void\ printposition()
+comment11.params=
+comment11.target=void\ printposition2()
+comment12.params=
+comment12.target=void\ showMove()
+comment2.params=positionX\ positionY\ direction
+comment2.target=Piece(int,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=int[][]\ getAvailableMovements()
+comment4.params=
+comment4.target=void\ resetAvailableMovements()
+comment5.params=y\ x
+comment5.target=void\ pieceMovement(int,\ int)
+comment6.params=y\ x\ pieceName
+comment6.target=void\ setFisrtClickLoc(int,\ int,\ java.lang.String)
+comment7.params=
+comment7.target=int\ getFirstClickX()
+comment8.params=
+comment8.target=int\ getFirstClickY()
+comment9.params=
+comment9.target=java.lang.String\ getPieceName()
+numComments=13

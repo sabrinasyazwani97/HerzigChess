@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Board
+comment1.params=rab1\ rab2\ rab3\ rs1\ rs2\ rc1\ rc2\ rh1\ gab1\ gab2\ gab3\ gs1\ gs2\ gc1\ gc2\ gh1
+comment1.target=Board(Piece,\ Piece,\ Piece,\ Piece,\ Piece,\ Piece,\ Piece,\ Piece,\ Piece,\ Piece,\ Piece,\ Piece,\ Piece,\ Piece,\ Piece,\ Piece)
+comment2.params=
+comment2.target=void\ showBoard()
+comment3.params=
+comment3.target=void\ flipBoard()
+comment4.params=x\ y\ piece_name
+comment4.target=void\ boardAfterMove(int,\ int,\ java.lang.String)
+comment5.params=
+comment5.target=void\ afterFourTurns()
+comment6.params=
+comment6.target=void\ saveGameFileCreation()
+comment7.params=
+comment7.target=void\ saveGame()
+comment8.params=
+comment8.target=void\ loadGameScanner()
+comment9.params=
+comment9.target=void\ loadGame()
+numComments=10
