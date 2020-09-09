@@ -1,6 +1,4 @@
-------------------------------------------------------------------------
-This is the project README file
-------------------------------------------------------------------------
+# This is the project README file
 
 PROJECT TITLE: 
 Herzig Chess 
@@ -23,9 +21,7 @@ AUTHORS:
 INSTITUTION: 
 Multimedia University
 
-------------------------------------------------------------------------
-USER MANUAL
-------------------------------------------------------------------------
+# USER MANUAL
 
 Herzig Chess is played on an 8x5 board. The board consists of 6 Arrow Box, 4 Star, 4 Cross and 2 Heart. The game ends when the heart is captured by the other side.
 
@@ -39,7 +35,6 @@ User Interface:
 1. “Save Game” :The user need to click the button to save the game.
 2. “Load Game” : The user need to click the button to continue the saved game before.
 
-------------------------------------------------------------------------
-REMINDER: This project is in Alpha development phase. Please expect that this project contains a lot of limitations or bugs that should be improved.
-------------------------------------------------------------------------
+# REMINDER: This project is in Alpha development phase. Please expect that this project contains a lot of limitations or bugs that should be improved.
+
 
